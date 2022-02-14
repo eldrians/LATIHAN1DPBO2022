@@ -1,40 +1,59 @@
 # LATIHAN1DPBO2022
+" Saya Axel Eldrian Hadiwibowo 2000352 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain Pemrogaman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin "
 
-LATIHAN1DPBO
-| Alief Muhammad Abdillah - Ilmu Komputer C1 - 2003623
+Nama : Axel Eldrian Hadiwibowo
+Kelas : Ilmu Komputer C1 2020
+NIM : 2000352
 
 Repository berisi file latihan praktikum 1 dalam mata kuliah Desain Pemrogaman Berorientasi Objek
 
-Janji: Saya Alief Muhammad Abdillah 2003623 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain Pemrogaman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Spesifikasi Tugas
 
-Spesifikasi Tugas untuk file c++ dan java:
+Tugas A :
 
-terdapat 3 class yaitu :
+PHP
+Terdapat 2 class yaitu :
+1. DaftarMahasiswa = merupakan class untuk data daftar mahasiswa yang berisi 5 atribut beserta function yang menyertainya
+2. main = untuk menampilkan program
 
-DataTim = Class untuk representasi Data-data tim dan berisi atribut dan method
-Tabel = Class untuk membuat tabel agar saat di print lebih rapih
-Main = untuk menjalankan progam
-Pada Class DataTim ini terdiri dari properties, dan methode getter dan setter dari masing-masing propertiesnya:
+Pada class DaftarMahasiswa terdiri dari properties dan juga implementasi metode getter dan setter dengan daftar sebagai berikut :
+NIM : Variabel untuk NIM mahasiswa
+Nama : Variabel untuk nama mahasiswa
+gender : Variabel untuk gender dari mahasiswa
+Program Studi : Variabel untuk menampung daftar program studi dari mahasiswa
+Semester : Variabel untuk semester untuk mahasiswa
 
-nama : untuk menampung data nama tim
-negara : untuk menampung data asal negara tim
-kota : untuk menampung data kota asal tim
-kandang : berisi data kandang dari tim
-tahun berdiri : menampung data sejak tahun berapa tim berdiri
-pemain : menampung data nama-nama pemain yang ada di tim
-nomor punggung : menampung data nomor punggung setiap pemain
-Spesifikasi Tugas untuk file php dan python:
+Tugas B :
 
-terdapat 2 class yaitu :
+C++ && Java && PHP : " Statis "
 
-DataTim = Class untuk representasi Data-data tim dan berisi atribut dan method
-indexTim = untuk menjalankan progam
-Pada Class DataTim ini terdiri dari properties, dan methode getter dan setter dari masing-masing propertiesnya:
+Terdapat 2 class yaitu :
+1. TimSepakbola = merupakan class untuk data tim sepakbola yang saya bentuk beserta dengan atribut yang menyertainya
+2. main = menampilkan program secara statis dengan atribut yang sudah disediakan pada class TimSepakbola
 
-nama : untuk menampung data nama tim
-negara : untuk menampung data asal negara tim
-kota : untuk menampung data kota asal tim
-kandang : berisi data kandang dari tim
-tahun berdiri : menampung data sejak tahun berapa tim berdiri
-Pelatih : untuk menampung data pelatih tim
-KaptenTim : untuk menampung data kapten tim
+Pada class TimSepakbola terdiri dari properties dan juga implementasi metode getter dan setter dengan daftar sebagai berikut :
+
+NamaTeam : Variabel untuk nama tim sepakbola yang saya bentuk
+NegaraAsalTeam : Variabel untuk negara asal tim  sepakbola yang saya bentuk
+TahunBerdiriTeam : Variabel untuk tahun berdiri tim sepakbola yang saya bentuk
+Pemain : Variabel untuk nama nama pemain sepakbola
+NegaraAsalPemain : Variabel untuk negara dari para pemain sepakbola
+NomorPunggungPemain : Variabel untuk Nomor punggung pemain sepakbola
+PosisiPemain : Variabel untuk posisi pemain
+
+Python : " Dinamis "
+
+Terdapat 2 class yaitu :
+1. TimSepakbola = merupakan class untuk data tim sepakbola yang saya bentuk beserta dengan atribut yang menyertainya
+2. main = menampilkan program secara dinamis dengan atribut yang sudah disediakan pada class TimSepakbola
+
+Pada class TimSepakbola terdiri dari properties dan juga implementasi metode getter dan setter dengan daftar sebagai berikut :
+
+NamaTeam : Variabel untuk nama tim sepakbola yang saya bentuk
+NegaraAsalTeam : Variabel untuk negara asal tim  sepakbola yang saya bentuk
+TahunBerdiriTeam : Variabel untuk tahun berdiri tim sepakbola yang saya bentuk
+Pemain : Variabel untuk nama nama pemain sepakbola
+NegaraAsalPemain : Variabel untuk negara dari para pemain sepakbola
+NomorPunggungPemain : Variabel untuk Nomor punggung pemain sepakbola
+PosisiPemain : Variabel untuk posisi pemain
+ 
